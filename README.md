@@ -3,6 +3,8 @@ Ron-Announcment New Design | Work With QB-Framework
 
 Command - /announcment [ and your words ]|
 
+Preview - https://imgur.com/JjGqgqc
+
 Change The Core To QBCore
 My Core Is NBCore
 
